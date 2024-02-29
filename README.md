@@ -1,3 +1,2 @@
 # Sem-SistemasOperativos
-https://es.stackoverflow.com/questions/453491/c%C3%B3mo-hago-un-men%C3%BA-para-seleccionar-opciones-con-bash
-https://stackoverflow.com/questions/22100384/awk-to-compare-two-files
+https://andreafortuna.org/2019/10/24/how-to-create-a-virtualbox-vm-from-command-line/
